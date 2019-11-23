@@ -64,8 +64,7 @@ class App extends React.Component {
                 onChange={this.handleChange}/>
                 
         </div>
-        // </div>, <h1>This is another Component to render</h1> // you can render multiple components like this one.
-      );
+       );
     }
 }
 
