@@ -1,4 +1,4 @@
-# Bitoin Tracker 
+# Bitcoin Tracker 
 
 Bitcointracker is a react app which shows you valuation of bitcoin in different currencies.
 
